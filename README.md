@@ -128,4 +128,4 @@ For questions or feedback, please open an issue on GitHub.
 ## Reference Documentation
 
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [Apache Maven Documentation](https://maven.apache.org/guides/index.html)
+mvn spring-boot:run: [Apache Maven Documentation](https://maven.apache.org/guides/index.html)
